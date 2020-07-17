@@ -1,0 +1,1 @@
+This repository contains two folders: Android and Arduino.
